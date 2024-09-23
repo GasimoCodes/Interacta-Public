@@ -5,7 +5,7 @@ This allows players to **select objects just by loosely looking at them** (as op
 
 Playable Demo is available for download in the Releases Section.
 
-![Demo](https://github.com/GasimoCodes/Interacta-Public/releases) | ![Documentation]([https://github.com/GasimoCodes/Interacta-Public/releases](https://gasimo.dev/Interacta/)) | ![Asset Store](https://assetstore.unity.com/packages/slug/273985)
+![Demo](https://github.com/GasimoCodes/Interacta-Public/releases) | ![Documentation](https://gasimo.dev/Interacta/)) | ![Asset Store](https://assetstore.unity.com/packages/slug/273985)
 
 # Features
 
